@@ -1,0 +1,5 @@
+// Lista del grupo. Cada persona tiene una carpeta dentro de /estudiantes.
+// Reto opcional: agrega tu propia línea al final de la lista.
+const ESTUDIANTES = [
+  { nombre: "Ana (ejemplo)", carpeta: "ejemplo", emoji: "🦊" }
+];
